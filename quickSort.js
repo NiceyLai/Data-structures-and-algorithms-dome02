@@ -17,5 +17,4 @@ let quickSort = (arr) => {
   }
   return quickSort(left).concat([pivot], quickSort(right));
 };
-let numbers = [9, 4, 23, 7];
-console.log(quickSort(numbers));
+
