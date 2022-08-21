@@ -1,4 +1,4 @@
-// // 选择排序最终代码
+// 选择排序最终代码
 
 // let sort = (numbers) => {
 //   for (let i = 0; i < numbers.length - 1; i++) {
